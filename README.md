@@ -8,6 +8,7 @@ string
 variaveis
 switch
 prompt
+tipos primitivos
 ## Atividades desenvolvidas
 lista de frutas(switch), compra de frutas(array), string e o vídeo.
 
