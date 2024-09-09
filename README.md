@@ -45,7 +45,20 @@ console.log(atualizandoLivros);
 
 alert(livros)//pode ser console.log também :V
 ```
-string
+**STRING**
+
+Maneira de representar um dado em maneira de texto
+-Podendo ser represendado pelas "", '' ou ``
+
+exemplos de fixação
+```js
+console.log("Hello world");
+console.log("Hello" + " " + "world"); 
+//casos com variaveis
+const nome = naju
+console.log("Hello" + " " + nome)
+console.log(`Hello ${nome}`)
+```
 variaveis
 switch
 prompt
