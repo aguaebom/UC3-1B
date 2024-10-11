@@ -66,7 +66,14 @@ const nome = naju
 console.log("Hello" + " " + nome)
 console.log(`Hello ${nome}`)
 ```
-# SWITCH CASE
+# ESTRUTURA CONDICIONAL
+
+***IF & ELSE***
+
+Como o nome já fala, if e else são estruturas condicionais que agem de acordo com o seguinte comando:
+
+
+***SWITCH CASE***
 O switch case consiste em ser um if else, porém usando blocos de código
 
 vamos supor que a nossa situação é de uma livraria
