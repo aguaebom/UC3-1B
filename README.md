@@ -29,6 +29,29 @@ parseInt()- Converte uma string para número inteiro.
 
 paeseFloat()- Converte uma string para número decimal. 
 
+[Para saber de maneira mais detalhada, clique aqui](https://pt.stackoverflow.com/questions/134453/como-converter-uma-string-para-int-em-javascript)
+
+[Ou aqui](https://www.alura.com.br/artigos/convertendo-string-para-numero-em-javascript?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=164068847699&hsa_ad=703934793962&hsa_src=g&hsa_tgt=dsa-2273097816642&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwmaO4BhAhEiwA5p4YLzpUEZtJdNOtHJ_oRvsItvjjBEoDUgbq9xO8jT8KUKTOvCswDNXSHBoCdScQAvD_BwE)
+
+***BOOLEAN**
+
+Um Boolean é um valor no qual define de uma função para descobrir se uma variável é real (true) ou falsa (false).
+
+Para isso é necessário condições e separações
+
+== igual a
+
+< maior que
+
+> menor que
+
+**NULL**
+
+Valor vazio
+
+**UNDEFINED**
+
+Indefinido
 
 # STRING
 Maneira de representar um dado em maneira de texto
@@ -115,10 +138,9 @@ console.log(atualizandoLivros);
 
 alert(livros)//pode ser console.log também :V
 ```
+estrutura condicional
 
-
-prompt
-tipos primitivos
+function
 ## Atividades desenvolvidas
 lista de frutas(switch), compra de frutas(array), string e o vídeo.
 
