@@ -39,11 +39,19 @@ Um Boolean é um valor no qual define de uma função para descobrir se uma vari
 
 Para isso é necessário condições e separações
 
-== igual a
+ comparação | significado      
+------------|---------------
+   ==       | igual
+   ===      | igual
+ '>'        | maior
+ '<'        | menor
+ '>='       | maior igual
+  '<='      | menor igual a
+   !==      | diferente
+   !=       | diferente
 
-< maior que
 
-> menor que
+por favor ignorem as aspas no maior que e menor que (tinha que encontrar uma maneira de não travar a lista)
 
 **NULL**
 
@@ -68,12 +76,20 @@ console.log(`Hello ${nome}`)
 ```
 # ESTRUTURA CONDICIONAL
 
-***IF & ELSE***
+**IF & ELSE**
 
 Como o nome já fala, if e else são estruturas condicionais que agem de acordo com o seguinte comando:
+```js
+if(resposta == variável ou sla){ //se tal coisa for isso
+console.log(faça isso)
+} else {  //se não
+console.log(faça isso)
+}
+```
+também podemos usar else if como uma nova condição.
 
+**SWITCH CASE**
 
-***SWITCH CASE***
 O switch case consiste em ser um if else, porém usando blocos de código
 
 vamos supor que a nossa situação é de uma livraria
@@ -145,10 +161,34 @@ console.log(atualizandoLivros);
 
 alert(livros)//pode ser console.log também :V
 ```
-estrutura condicional
+# FUNCTION
+como o nome ja fala, é uma função
 
-function
+um exemplo:
+```js
+function falar(){ //parâmetro
+             //(dado de entrada)
+  return 'hihihihhah'
+}
+console.log(falar())
+```
+
 ## Atividades desenvolvidas
-lista de frutas(switch), compra de frutas(array), string e o vídeo.
+[atividade 1](https://codepen.io/Ana-j-lia-Gouveia/pen/MWMvoOV)
+
+[atividade 2](https://codepen.io/Ana-j-lia-Gouveia/pen/yLdPMMj)
+
+[atividade 3](https://codepen.io/Ana-j-lia-Gouveia/pen/OJeQQyp)
+
+[atividade 4](https://codepen.io/Ana-j-lia-Gouveia/pen/zYVyzyp)
+
+[atividade 5](https://codepen.io/Ana-j-lia-Gouveia/pen/MWNWjrP)
+
+[atividade 6](https://codepen.io/Ana-j-lia-Gouveia/pen/yLmOGjY)
+
+[atividade 7](https://codepen.io/Ana-j-lia-Gouveia/pen/RwXRzLr)
+
+[atividade 8](https://codepen.io/Ana-j-lia-Gouveia/pen/oNKYEmy)
+
 
 
